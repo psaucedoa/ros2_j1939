@@ -1,0 +1,3 @@
+[submodule "generic_can_driver"]
+	path = generic_can_driver
+	url = https://github.com/psaucedoa/generic_can_driver.git
