@@ -13,3 +13,6 @@
 [submodule "hardware_interface_j1939"]
 	path = hardware_interface_j1939
 	url = https://github.com/psaucedoa/hardware_interface_j1939.git
+[submodule "can_driver"]
+	path = can_driver
+	url = https://github.com/psaucedoa/can_driver.git
