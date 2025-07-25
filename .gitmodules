@@ -14,3 +14,7 @@
 	path = can_driver
 	url = https://github.com/psaucedoa/can_driver.git
 	branch = main
+[submodule "can_dbc_parser"]
+	path = raptor_dbw_ros2
+	url = https://github.com/psaucedoa/raptor-dbw-ros2.git
+	branch = parser_only
